@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Recursos/JavaScript/Tratamento de erros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Tratamento de erros"
             }
           }
         ]
@@ -155,6 +155,23 @@
   },
   "active": "67aa2805ee0552f6",
   "lastOpenFiles": [
-    "Teste.md"
+    "Interface.md",
+    "Recursos/JavaScript/Tratamento de erros.md",
+    "Recursos/JavaScript/Tratamento de erros",
+    "Recursos/JavaScript",
+    "Recursos/web/Build_Tools/Vite.md",
+    "Recursos/git/git comandos base.docx",
+    "Recursos/git",
+    "Recursos/web/Test_Tools/ViTest/Introdução.md",
+    "Projetos/faculdade/Teorema5.docx",
+    "Projetos/faculdade",
+    "Arquivos/Documento sem nome.docx",
+    "Arquivos",
+    "Projetos/Trabalho/freela Laravel + Vue3/Prestação de contas/09-06-2025.jpg",
+    "Projetos/Trabalho/freela Laravel + Vue3/Formicred/módulos/LOGS/LOG.docx",
+    "Projetos/Trabalho/freela Laravel + Vue3/Formicred/módulos/LOGS",
+    "Recursos/web/Test_Tools/ViTest/Comandos Basicos.md",
+    "Teste.md",
+    "Recursos/web/Termos báse/Mimificação.md"
   ]
 }
