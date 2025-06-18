@@ -1,0 +1,2 @@
+# Code Splitting
+Code splitting é uma técnica de otimização para aplicações web que consiste em dividir o código em partes menores (chunks) que podem ser carregados sob demanda, em vez de carregar todo o código de uma só vez. Isso permite um carregamento inicial mais rápido e um melhor desempenho, especialmente em aplicações web complexas. 

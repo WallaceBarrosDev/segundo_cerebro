@@ -1,0 +1,2 @@
+# Production Build
+Em desenvolvimento de software, um "Production Build" refere-se a uma versão otimizada de um aplicativo ou sistema, projetada para ser executada em um ambiente de produção (ou seja, para usuários finais). Geralmente, essa versão é diferente da versão de desenvolvimento, que é utilizada durante a fase de desenvolvimento e testes. 

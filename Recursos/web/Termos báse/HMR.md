@@ -1,0 +1,2 @@
+# Hot Module Replacement (HMR)
+Hot Module Replacement (HMR) é um recurso que permite atualizar módulos em uma aplicação em execução sem a necessidade de recarregar a página inteira. Isso significa que, durante o desenvolvimento, você pode fazer alterações no código e vê-las refletidas no navegador quase instantaneamente, sem perder o estado da aplicação, como dados de formulários ou posição de scroll.

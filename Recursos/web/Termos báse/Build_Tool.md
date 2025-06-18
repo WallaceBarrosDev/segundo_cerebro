@@ -1,0 +1,2 @@
+# Build Tool
+> Em JavaScript, uma Build Tool é uma ferramenta que automatiza tarefas repetitivas durante o desenvolvimento, como a compilação de código, a minificação, a concatenação, a divisão de código e a recarga a quente, preparando o código para produção

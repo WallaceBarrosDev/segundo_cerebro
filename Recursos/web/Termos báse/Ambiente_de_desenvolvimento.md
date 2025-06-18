@@ -1,0 +1,2 @@
+# Ambiente de desenvolvimento (Dev Server)
+Um "Dev Server", ou servidor de desenvolvimento, é um ambiente local onde desenvolvedores testam e executam código durante o desenvolvimento de software. Ele permite que os desenvolvedores experimentem livremente sem afetar a aplicação ou usuários finais em produção. É uma ferramenta crucial para testar novas funcionalidades, corrigir bugs e garantir que o código funcione corretamente antes de ser implantado em um ambiente de produção.
